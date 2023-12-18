@@ -1,0 +1,7 @@
+# ninja log v5
+102	259	7246425328499132	Libreria_Estandar_C.exe	151e9807a8bee9e
+4	173	7246426576756225	build.ninja	d531d5fcd05b2b97
+2	101	7246425326987402	CMakeFiles/Libreria_Estandar_C.dir/archivos.c.obj	b4f759fdfb7d362
+1	148	7246426576756225	build.ninja	d531d5fcd05b2b97
+0	98	7246426578100771	CMakeFiles/Libreria_Estandar_C.dir/Escribir.c.obj	afca5ccc9225d022
+98	255	7246426579625187	Libreria_Estandar_C.exe	cbdede804e58e125

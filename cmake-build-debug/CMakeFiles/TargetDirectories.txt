@@ -1,0 +1,3 @@
+C:/Users/ikerf/OneDrive/Documentos/GitHub/Libreria_Estandar_C/cmake-build-debug/CMakeFiles/Libreria_Estandar_C.dir
+C:/Users/ikerf/OneDrive/Documentos/GitHub/Libreria_Estandar_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ikerf/OneDrive/Documentos/GitHub/Libreria_Estandar_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
