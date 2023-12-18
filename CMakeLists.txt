@@ -4,5 +4,6 @@ project(Libreria_Estandar_C C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(Libreria_Estandar_C
+        Escribir.c
 
-        archivos.c)
+        )
