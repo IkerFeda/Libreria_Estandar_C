@@ -1,0 +1,12 @@
+# ninja log v5
+0	119	7246056025429273	CMakeFiles/Libreria_Estandar_C.dir/Compare_Strings.c.obj	24c92d005d127848
+2	159	7246056165130374	Libreria_Estandar_C.exe	d531b5a1be05b984
+13	160	7246056025826969	CMakeFiles/Libreria_Estandar_C.dir/Random.c.obj	7c6d5cc85123099e
+33	161	7246056025826969	CMakeFiles/Libreria_Estandar_C.dir/Valor_absoluto.c.obj	c9c7be772aae58bc
+3	151	7246056467473268	build.ninja	d531d5fcd05b2b97
+1	153	7246056467473268	build.ninja	d531d5fcd05b2b97
+3	165	7246056469419959	Libreria_Estandar_C.exe	5b34b6be8f4d1117
+3	119	7246056847595618	CMakeFiles/Libreria_Estandar_C.dir/Random.c.obj	7c6d5cc85123099e
+119	283	7246056849200633	Libreria_Estandar_C.exe	5b34b6be8f4d1117
+2	122	7246058504063068	CMakeFiles/Libreria_Estandar_C.dir/Random.c.obj	7c6d5cc85123099e
+123	286	7246058505639439	Libreria_Estandar_C.exe	5b34b6be8f4d1117
